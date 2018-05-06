@@ -1,0 +1,33 @@
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\Sayı Oyunu.exe.config
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\Sayı Oyunu.exe
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\Sayı Oyunu.pdb
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.csprojResolveAssemblyReference.cache
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Form1.resources
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Properties.Resources.resources
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.csproj.GenerateResource.cache
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.csproj.CoreCompileInputs.cache
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.exe
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.pdb
+c:\users\semih\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Form2.resources
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\bin\Debug\Sayı Oyunu.exe.config
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\bin\Debug\Sayı Oyunu.exe
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\bin\Debug\Sayı Oyunu.pdb
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Form1.resources
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Form2.resources
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Properties.Resources.resources
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.exe
+C:\Users\Semih\Desktop\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.pdb
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\bin\Debug\Sayı Oyunu.exe.config
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\bin\Debug\Sayı Oyunu.exe
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\bin\Debug\Sayı Oyunu.pdb
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\obj\Debug\Sayı Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Form1.resources
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Form2.resources
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Properties.Resources.resources
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\obj\Debug\Sayı Oyunu.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\obj\Debug\Sayı Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\obj\Debug\Sayı Oyunu.exe
+C:\Users\Semih\Desktop\Sayı Oyunu - Kopya\Sayı Oyunu\obj\Debug\Sayı Oyunu.pdb
